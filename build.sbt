@@ -1,5 +1,5 @@
 name := "CodinGame-Scala-Kit"
-version := "0.1.0"
+version := "0.1.3"
 scalaVersion := "2.12.4"
 
 // solve a weird issue with java dependencies (trait Approving)
